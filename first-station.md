@@ -52,16 +52,16 @@
         <th>что хочу в итоге от этого получить<br>(знания, итоговые проекты,эмоции и т.д.)</th>
     </tr> 
     <tr>
-        <td> </td>
-        <td> </td>
+        <td> &nbsp;</td>
+        <td> &nbsp;</td>
     </tr>
     <tr>
-        <td> </td>
-        <td> </td>
+        <td> &nbsp;</td>
+        <td> &nbsp;</td>
     </tr>
     <tr>
-        <td> </td>
-        <td> </td>
+        <td> &nbsp;</td>
+        <td> &nbsp;</td>
     </tr>
 </table>
 
